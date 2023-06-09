@@ -1,0 +1,3 @@
+##With this app we can track or know weather all cities in world. 
+Using api https://openweathermap.org/
+![screen](img_r/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(6).png)
